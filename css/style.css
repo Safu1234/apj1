@@ -2,67 +2,113 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
-
-
-.qq{
-    background-color:hsl(189, 32%, 52%);
-    min-height: 100vh;
-    border:10px solid hsl(240, 4%, 5%);
+body{
+   
+    color: white;
 }
-.ww{
-    max-width: 900px;
-    margin: 0 auto;
-}
-.top{
-    margin-top: 100px;
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background-color:transparent;
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
+    z-index: 100;
 }
-.top h1{
-    font-size: 50px;
-    color: rgb(14, 47, 236);
+.logo{
+    font-size: 40px;
+    color: rgb(241, 18, 156);
+    text-decoration: none;
+    font-weight: 1000;
 }
-.top h4{
-    font-size: 30px;
-    text-align: end;
+.navbar a {
+    font-size: 18px;
+    color: rgb(235, 75, 208);
+    text-decoration: none;
+    font-weight: 1000;
+    margin-left: 35px;
+    transition: 4s;
 }
 
-.img{
+.navbar a:hover,
+.navbar a.active{
+    color: aqua;
+} 
+
+.home{
+    height: 100vh;
+    background: url(img/Ginkgo-Bioworks-acquires-circular-RNA-biotech-Circularis.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
     display: flex;
-    border-radius: 50%;
-    overflow: hidden;
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius:50% ;
-    border-top-right-radius: 50%;
-    border-top-left-radius:50%;
+    align-items: center;
+    padding:  10%;
+}
+.home-content{
+  max-width: 600px;
+}
+.home-content h1{
+    font-size: 47px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: rgb(235, 75, 208);
+}
+.home-content h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: aqua;
+}
+.home-content p{
+    font-size: 15px;
+    margin: 20px 0 40px;
+}
+.home-content .btn-box{
+    display: flex;
+    width: 345px;
+    justify-content: space-between;
+    height: 50px;
+    
+}
+.btn-box a{
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 100%;
+    border: 2px rgb(184, 102, 35);
+    border-radius: 8px;
+    font-size: 19px;
+    color:  rgb(0, 225, 255);
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
 }
 
-.img{
-    width: 250px;
-    height: 320px;
-    
+.home-sct{
+    position: absolute;
+    bottom: 40px;
+    width: 170px;
+   display: flex;
+   justify-content: space-between;
 }
-h2{
-    font-size: 60px;
-}
-.about_section{
-    margin: 50px;
-}
-p{
+.home-sct a{
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid rgb(235, 86, 210);
+    border-radius: 50%;
     font-size: 20px;
-    line-height: 30px;
-    letter-spacing: 1.2px;
-    text-align: justify;
+    color: aqua;
+    text-decoration: none;
+
 }
-h3{
-    font-size: 30px;
-}
-.qqq{
-    font-size: 20px
-}
-footer p{
-    text-align: end;
-}
-    

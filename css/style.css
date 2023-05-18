@@ -112,3 +112,22 @@ body{
     text-decoration: none;
 
 }
+@media(max-width:450px){
+    .header{
+        width: 88%;
+        padding: 20px 0%;  
+    }
+    .logo{
+        font-size: 40px;
+    }
+    .navbar a {
+        font-size: 7px;
+        margin-left: 10px;
+    }
+    .home {
+        padding: 4%;
+    }
+    .home-content h1 {
+        font-size: 27px;
+    }
+}

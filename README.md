@@ -3,7 +3,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+safu;Welcome+to+my+profile;full+stack+developer)]( https://safu1234.github.io/apj1/)
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/RIBINZX/count.svg)
+
 
 <img src=https://i.ibb.co/5WL2Y8j/photo-2022-09-16-09-17-48.jpg>
 

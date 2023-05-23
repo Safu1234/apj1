@@ -1,5 +1,4 @@
-# apj1
- https://safu1234.github.io/apj1/
+
 ### Hi i'm Safwan mohammed.k 👋
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+RIBINZX;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)

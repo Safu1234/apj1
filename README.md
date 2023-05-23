@@ -1,7 +1,7 @@
 
 ### Hi i'm Safwan mohammed.k 👋
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+RIBINZX;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+safu;Welcome+to+my+profile;full+stack+developer)]( https://safu1234.github.io/apj1/)
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/RIBINZX/count.svg)
 

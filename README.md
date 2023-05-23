@@ -4,9 +4,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+safu;Welcome+to+my+profile;full+stack+developer)]( https://safu1234.github.io/apj1/)
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/RIBINZX/count.svg)
-
-<img src=![safwan](https://github.com/Safu1234/apj1/assets/131651767/3ada75d8-9169-4079-85b3-438144ceed0e)
->
+[safwan](https://github.com/Safu1234/apj1/assets/131651767/3ada75d8-9169-4079-85b3-438144ceed0e)
 
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm RIBIN&nbsp;
 
